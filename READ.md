@@ -12,3 +12,7 @@
 --allow-run
 --allow-all
 ```
+
+### 기억할것!
+
+-   항상 Top level에서만 async에 감싸지지 않아도 await을 사용할수있지만, 그외에는 무조건 async로 감싸야한다!
